@@ -11,6 +11,7 @@ function handleGeoSuccess(position) {
 
     const coordsObj = { latitude, longitude }
     saveCoords(coordsObj)
+    //
 }
 
 function handleGeoError() {
