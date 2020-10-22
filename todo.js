@@ -66,6 +66,8 @@ function handleSubmit(e) {
     paintToDo(currentValue)
     toDoInput.value = ''
 }
+//https://gangyong92.github.io/momonton/
+//https://github.com/Gangyong92/momonton/blob/master/index.css
 
 function init() {
     loadToDos()

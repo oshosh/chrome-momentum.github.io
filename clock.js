@@ -14,7 +14,7 @@ function getTime() {
         getSeconds === 0 || String(getSeconds).length === 1 ? '0' + getSeconds : getSeconds}`
 
     clockTitle.style.color = 'white'
-    clockTitle.style.fontSize = '50px'
+    // clockTitle.style.fontSize = '50px'
 }
 
 function init() {
